@@ -1,0 +1,62 @@
+# 🔥 Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_export_environment.sh
+
+# 📱 Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+
+# 🍎 iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# 🌐 Web
+build/web/
+
+# 💻 macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/Runner/GeneratedPluginRegistrant.*
+
+# 🪟 Windows
+windows/flutter/ephemeral/
+windows/runner/Debug/
+windows/runner/Release/
+
+# 🐧 Linux
+linux/flutter/ephemeral/
+
+# 🔒 Environment / Secrets
+.env
+.env.*
+
+# 🧠 IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# 🗑️ Logs & temp files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# 📦 Coverage
+coverage/
+
+# 🧪 Test artifacts
+test_driver/
+

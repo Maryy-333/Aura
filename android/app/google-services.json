@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693078248086",
+    "project_id": "minimal-social-app-fae36",
+    "storage_bucket": "minimal-social-app-fae36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693078248086:android:29c229c0a79b63fca290b7",
+        "android_client_info": {
+          "package_name": "com.example.minimal_social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHctUQuf6PB7eQ_3JiejPE44A3EVqGUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
